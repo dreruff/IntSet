@@ -1,8 +1,6 @@
 /*
 Greg Ruffin gruffin gregoryaruffin@gmail.com
 IntSet.cpp
-Assignment 3 Integer Sets
-code status: working
 */
 
 

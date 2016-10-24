@@ -1,16 +1,12 @@
 /*
 Greg Ruffin gruffin gregoryaruffin@gmail.com
 IntSet.h
-Assignment 3 Integer Sets
-code status: working
 */
 
 
 #ifndef INTSET_H
 #define INTSET_H
 
-// CS19: C++ Integer Sets Program
-// Starter Code by Steve J. Hodges
 class IntSet{
  public:
   IntSet(int =-1,int =-1, int =-1, int =-1, int =-1);

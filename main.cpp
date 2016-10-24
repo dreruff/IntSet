@@ -1,17 +1,12 @@
 /*
 Greg Ruffin gruffin gregoryaruffin@gmail.com
 main.cpp
-Assignment 3 Integer Sets
-code status: working
 */
 
 #include <iostream>
 #include "IntSet.h"
 
 using namespace std;
-
-// NOTE: this main function test routine must be used for your final submission
-// this is not an exhaustive test, so you'll still need to do your own testing!
 
  main(){
 
