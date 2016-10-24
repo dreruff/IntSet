@@ -8,7 +8,7 @@ main.cpp
 
 using namespace std;
 
- main(){
+ int main(){
 
    IntSet is1,is2(1,2,5),is3;
    cout << "CS19 Program #3 Integer Set Class"<<endl;
